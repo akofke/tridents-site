@@ -1,0 +1,11 @@
+.jumbotron#img-banner  {
+    background-image: url("../img/team.jpg");
+    background-position: 0% 25%;
+    padding-bottom: 15%;
+    padding-top: 15%;  
+}
+
+#homepage-banner {
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+}
