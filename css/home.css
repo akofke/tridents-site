@@ -2,10 +2,22 @@
     background-image: url("../img/team.jpg");
     background-position: 0% 25%;
     padding-bottom: 15%;
-    padding-top: 15%;  
+    padding-top: 15%;
 }
 
 #homepage-banner {
     background: rgba(0, 0, 0, 0.5);
     color: white;
+}
+
+.fa-twitter:hover {
+  color: rgba(0, 172, 237, .7);
+}
+
+.fa-facebook-f:hover {
+  color: rgba(59, 89, 152, .7);
+}
+
+.fa-envelope:hover {
+  color: rgba(221, 75, 57, .7);
 }
